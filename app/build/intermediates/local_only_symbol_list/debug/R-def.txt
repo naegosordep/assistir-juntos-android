@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+color accent_glow
+color glass_surface
+color obsidian_background
+style Theme.AssistirJuntos
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_glow">#3B82F6</color>
+    <color name="glass_surface">#1A1D24</color>
+    <color name="obsidian_background">#0B0C10</color>
+    <style name="Theme.AssistirJuntos" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/obsidian_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
