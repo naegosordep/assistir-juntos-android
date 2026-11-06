@@ -63,12 +63,12 @@ dependencies {
     implementation("androidx.compose.material:material-icons-extended")
     implementation("androidx.navigation:navigation-compose:2.7.7")
 
-    // ExoPlayer / Media3 for Video playback
+    // ExoPlayer / Media3 para Video
     implementation("androidx.media3:media3-exoplayer:1.2.1")
     implementation("androidx.media3:media3-ui:1.2.1")
     implementation("androidx.media3:media3-session:1.2.1")
 
-    // Ktor for WebSocket / Network
+    // Ktor para WebSocket / Network
     implementation("io.ktor:ktor-client-core:2.3.8")
     implementation("io.ktor:ktor-client-cio:2.3.8")
     implementation("io.ktor:ktor-client-websockets:2.3.8")
